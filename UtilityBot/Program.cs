@@ -45,7 +45,7 @@ namespace UtilityBot
         {
             return new AppSettings()
             {
-                BotToken = "6642530541:AAGVjdew1uzXZ0ehPcjn1k7t5ZTvPfh6IBc"
+                BotToken = "Bot_Token"
             };
         }
     }
